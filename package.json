@@ -1,0 +1,16 @@
+{
+  "name": "filemanager2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "DK",
+  "license": "ISC",
+  "dependencies": {
+    "express-handlebars": "^5.2.0",
+    "formidable": "^1.2.2"
+  }
+}
